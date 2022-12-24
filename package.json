@@ -13,21 +13,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/miguelmota/eth-send"
+    "url": "https://github.com/Samarthpb/Multi_Eth_send"
   },
   "bugs": {
-    "url": "https://github.com/miguelmota/eth-send/issues"
+    "url": "https://github.com/Samarthpb/Multi_Eth_send/issues"
   },
-  "homepage": "https://github.com/miguelmota/eth-send",
+  "homepage": "https://github.com/Samarthpb/Multi_Eth_send",
   "author": {
-    "name": "Miguel Mota",
-    "email": "hello@miguelmota.com",
-    "url": "https://miguelmota.com/"
+    "name": "Samarth P B",
+    "email": "samarthpb.cs21@rvce.edu.in"
+    
   },
-  "license": {
-    "type": "MIT",
-    "url": "https://github.com/miguelmota/eth-send/blob/master/LICENSE"
-  },
+  
   "dependencies": {
     "chalk": "2.4.2",
     "ethereum-private-key-to-address": "0.0.2",
